@@ -3,8 +3,8 @@ module.exports = {
   successcolor: "#00FF00",
   stanbycolor: "#FFFFFF",
   wrongcolor: "#FF0000",
-  footertext: "Powered by Uo",
-  footericon: "https://cdn.discordapp.com/emojis/994612386713575534.gif?size=32&quality=lossless",
-  authoricon: "https://cdn.discordapp.com/emojis/994612386713575534.gif?size=32&quality=lossless",
-  loadingicon: "https://cdn.discordapp.com/emojis/994612386713575534.gif?size=32&quality=lossless"
+  footertext: "Powered by Szaby",
+  footericon: "https://cdn.discordapp.com/emojis/1280802618653937746.gif?size=48",
+  authoricon: "https://cdn.discordapp.com/emojis/1280802618653937746.gif?size=48",
+  loadingicon: "https://cdn.discordapp.com/emojis/1280802618653937746.gif?size=48"
 }
