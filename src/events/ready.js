@@ -10,7 +10,7 @@ module.exports = {
         { name: `${client.guilds.cache.size} Servers`, type: 2 }, // LISTENING
         { name: `${client.channels.cache.size} Channels`, type: 0 }, // PLAYING
         { name: `${client.users.cache.size} Users`, type: 3 }, // WATCHING
-        { name: `Sonic, a sündisznó 3`, type: 5 } // COMPETING
+        { name: `Mission: Impossible – Leszámolás`, type: 5 } // COMPETING
       ];
       const status = [
         'online',
